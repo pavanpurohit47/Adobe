@@ -1,0 +1,9 @@
+{
+  "docs_dir": "/Users/pavanpurohit/Documents/Adobe/leadership_insight_agent/docs",
+  "embed_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "chunk_size": 900,
+  "chunk_overlap": 120,
+  "num_chunks": 1243,
+  "faiss_index": "faiss.index",
+  "chunks_file": "chunks.jsonl"
+}
