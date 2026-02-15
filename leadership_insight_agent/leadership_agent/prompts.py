@@ -54,14 +54,9 @@ Key Findings:
 - 4 to 8 bullet points.
 - Each bullet must end with at least one citation tag.
 
-Direct Quotes:
-- 1 to 3 short quotes (max 25 words each) copied verbatim from Context.
-- Each quote must end with a citation tag.
-
 If not answerable from Context:
 - Output exactly:
   Not found in provided documents.
   Follow-up questions:
-  - ...
-  - ...
+
 """.strip()
